@@ -1,4 +1,4 @@
-# Prediciendo "Más allá de Orion": Machine Learning para predecir la rentabilidad de una película
+# "Más allá de Orion": Machine Learning para predecir la rentabilidad de una película
 
  ![comics-avengers-age-of-ultron-marvel-comics-ultron-wallpaper-preview](https://user-images.githubusercontent.com/98810076/205586753-16acfed8-2c05-4ca8-8228-35f38d211b93.jpg)
 
