@@ -22,7 +22,7 @@ Para determinar si una película es rentable o no, se ha codificado una variable
 
 Para determinar el módelo óptimo que mejor se ajusta a mis datos, he aplicado GridSearchCV, siendo el resultado que el mejor modelo sería el Random Forest.
 
-Este modelo ha conseguido una precisión/accuracy del 88%.
+Este modelo ha conseguido una accuracy del 88%.
 
 Los notebooks están separados en función del trabajo realizado en ellos: Uno para limpieza y procesado de datos, otro para el GridSearch y un tercero para ajustar el modelo Random Forest.
 
