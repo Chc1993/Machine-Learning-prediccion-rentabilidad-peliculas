@@ -27,3 +27,11 @@ Este modelo ha conseguido una accuracy del 88%.
 Los notebooks están separados en función del trabajo realizado en ellos: Uno para limpieza y procesado de datos, otro para el GridSearch y un tercero para ajustar el modelo Random Forest.
 
 Librerías utilizadas: Numpy, Pandas, Matplotlib y Seaborn para los gráficos, sklearn para los procesos de machine learning. 
+
+![output](https://user-images.githubusercontent.com/98810076/214535018-1b824d95-a75c-42dd-876d-5f8de50262c0.png)
+La matriz de confusión del modelo refleja:
+
+* Este modelo va a predecir bien un 83% de las veces aquellas películas que no serán rentables (True negatives)
+* Este modelo va a predecir bien un 92% de las veces aquellas película que serán rentables (true positives).
+* Un 11% de las veces predecirá como rentable una película que no lo será.
+* Un 13% de las veces predecirá como no rentable una película que sí lo será.
